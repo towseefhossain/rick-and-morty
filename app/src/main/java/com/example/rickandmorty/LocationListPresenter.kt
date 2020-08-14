@@ -1,12 +1,12 @@
 package com.example.rickandmorty
 
-import android.widget.Toast
 import com.google.gson.Gson
 import io.reactivex.Single
 import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.disposables.CompositeDisposable
 import io.reactivex.schedulers.Schedulers
 import okhttp3.Response
+
 
 interface LocationListView {
     fun updateList(data: Array<Location>)

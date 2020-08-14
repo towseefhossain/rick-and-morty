@@ -1,0 +1,171 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml:1:1-22:12
+INJECTED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml:1:1-22:12
+INJECTED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml:1:1-22:12
+INJECTED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml:1:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/b74d1a8f6e4c3d06db56bfca1d62fe78/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.1] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/474d159a53da17d2b3c6022207fe1ad1/jetified-core-ktx-1.3.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/fac32fc5ed902490ad853442983ddccb/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/26791a82dc3d63c7eaa6467c3e0183ef/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/d1d3d32a3b41d298602e295f07c78493/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/b4fa60113de7936cff713b0ea2f67be5/jetified-rxandroid-2.1.1/AndroidManifest.xml:15:1-20:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/9579b467e664bd3bdb57b1a966ff1ec1/jetified-glide-4.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/ab46b4d39fb497a16a122b1a0e7700fe/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/f57756296004427171c1675a716ecbaa/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/f8ebd7a9b8c6c31658ef866c98a37d3f/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/ef2652951448e0139b784270d97af79c/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/c6cf625787edb465062bba7502b97df0/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/c55ebabe2a8840c66e9a1a71b473929d/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/6549ce007ff51e13aea92f718d8add67/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/ddf4afdc0175f0500342901490d8657f/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/06c7cacead9aa0b986273c3ea6bf282b/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/2cb53c6356ae141f2f659e74f7ad5c3e/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.1] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/67bbc74f4e08f185cf8053e9c25706d9/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/59d2955bc85ec2e5386018ae1ee59b44/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/db51312289a4badd50d04af06bea3531/jetified-gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/d035d35ff1ceb31050c3c68b013a9ab9/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/0720477435ce7fa0ae92185de3edc9bb/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/992f3bcec5f87d37d7d3bd6633fa1da1/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/1d16c6dc2b2d168f30c6944b240c1eaa/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/613988e4a7e395476f48780c8183c8ec/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/895ae514fb8304702f9dffbf65e72fe7/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/53acc85ac95a45d6caad363cf023128a/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/4c0beeb9fe1d551898470b5a2b90c787/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml:1:1-22:12
+INJECTED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml:1:1-22:12
+INJECTED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml:1:1-22:12
+	package
+		ADDED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml:2:9-43
+		INJECTED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml:1:1-22:12
+		INJECTED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml:1:1-22:12
+		INJECTED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml:6:5-21:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/d1d3d32a3b41d298602e295f07c78493/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/d1d3d32a3b41d298602e295f07c78493/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/9579b467e664bd3bdb57b1a966ff1ec1/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/9579b467e664bd3bdb57b1a966ff1ec1/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.3.1] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/67bbc74f4e08f185cf8053e9c25706d9/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/67bbc74f4e08f185cf8053e9c25706d9/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/59d2955bc85ec2e5386018ae1ee59b44/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/59d2955bc85ec2e5386018ae1ee59b44/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/db51312289a4badd50d04af06bea3531/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/db51312289a4badd50d04af06bea3531/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/67bbc74f4e08f185cf8053e9c25706d9/core-1.3.1/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml:12:9-40
+activity#com.example.rickandmorty.MainActivity
+ADDED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:label
+		ADDED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml:14:13-45
+	android:name
+		ADDED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml:17:27-74
+activity#com.example.rickandmorty.CharacterListActivity
+ADDED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml:20:9-58
+	android:name
+		ADDED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml:20:19-56
+uses-sdk
+INJECTED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/b74d1a8f6e4c3d06db56bfca1d62fe78/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/b74d1a8f6e4c3d06db56bfca1d62fe78/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.1] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/474d159a53da17d2b3c6022207fe1ad1/jetified-core-ktx-1.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.1] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/474d159a53da17d2b3c6022207fe1ad1/jetified-core-ktx-1.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/fac32fc5ed902490ad853442983ddccb/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/fac32fc5ed902490ad853442983ddccb/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/26791a82dc3d63c7eaa6467c3e0183ef/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/26791a82dc3d63c7eaa6467c3e0183ef/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/d1d3d32a3b41d298602e295f07c78493/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/d1d3d32a3b41d298602e295f07c78493/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/b4fa60113de7936cff713b0ea2f67be5/jetified-rxandroid-2.1.1/AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/b4fa60113de7936cff713b0ea2f67be5/jetified-rxandroid-2.1.1/AndroidManifest.xml:18:5-43
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/9579b467e664bd3bdb57b1a966ff1ec1/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/9579b467e664bd3bdb57b1a966ff1ec1/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/ab46b4d39fb497a16a122b1a0e7700fe/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/ab46b4d39fb497a16a122b1a0e7700fe/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/f57756296004427171c1675a716ecbaa/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/f57756296004427171c1675a716ecbaa/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/f8ebd7a9b8c6c31658ef866c98a37d3f/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/f8ebd7a9b8c6c31658ef866c98a37d3f/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/ef2652951448e0139b784270d97af79c/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/ef2652951448e0139b784270d97af79c/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/c6cf625787edb465062bba7502b97df0/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/c6cf625787edb465062bba7502b97df0/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/c55ebabe2a8840c66e9a1a71b473929d/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/c55ebabe2a8840c66e9a1a71b473929d/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/6549ce007ff51e13aea92f718d8add67/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/6549ce007ff51e13aea92f718d8add67/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/ddf4afdc0175f0500342901490d8657f/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/ddf4afdc0175f0500342901490d8657f/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/06c7cacead9aa0b986273c3ea6bf282b/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/06c7cacead9aa0b986273c3ea6bf282b/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/2cb53c6356ae141f2f659e74f7ad5c3e/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/2cb53c6356ae141f2f659e74f7ad5c3e/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/67bbc74f4e08f185cf8053e9c25706d9/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/67bbc74f4e08f185cf8053e9c25706d9/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/59d2955bc85ec2e5386018ae1ee59b44/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/59d2955bc85ec2e5386018ae1ee59b44/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/db51312289a4badd50d04af06bea3531/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/db51312289a4badd50d04af06bea3531/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/d035d35ff1ceb31050c3c68b013a9ab9/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/d035d35ff1ceb31050c3c68b013a9ab9/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/0720477435ce7fa0ae92185de3edc9bb/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/0720477435ce7fa0ae92185de3edc9bb/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/992f3bcec5f87d37d7d3bd6633fa1da1/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/992f3bcec5f87d37d7d3bd6633fa1da1/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/1d16c6dc2b2d168f30c6944b240c1eaa/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/1d16c6dc2b2d168f30c6944b240c1eaa/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/613988e4a7e395476f48780c8183c8ec/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/613988e4a7e395476f48780c8183c8ec/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/895ae514fb8304702f9dffbf65e72fe7/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/895ae514fb8304702f9dffbf65e72fe7/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/53acc85ac95a45d6caad363cf023128a/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/53acc85ac95a45d6caad363cf023128a/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/4c0beeb9fe1d551898470b5a2b90c787/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mhossain1/.gradle/caches/transforms-2/files-2.1/4c0beeb9fe1d551898470b5a2b90c787/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mhossain1/rick-and-morty/app/src/main/AndroidManifest.xml
